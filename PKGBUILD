@@ -1,4 +1,4 @@
-# Maintainer: KittehCream <kittehcream@gmail.com>
+# Maintainer: Calliope System <calliopesystem@gmail.com>
 
 pkgname=devede-git
 _pkgname=devedeng
